@@ -1,11 +1,11 @@
-# Mario à travers les âges...Quand il était jeune 
+# Mario à travers les âges... Quand il était jeune👶
 
 &nbsp;
 ## _(1986-2006)_
 &nbsp;
 ## Super Mario Bros.
-##### Date de sortie : 18 octobre 1985
-Plateforme : Nintendo Entertainment System
+### Date de sortie : 18 octobre 1985
+### Plateforme : Nintendo Entertainment System
 &nbsp;
 Un jour, le royaume Champignon fut envahi par les Koopas, une tribu de tortues reconnues pour leur magie noire. Les calmes et pacifiques habitants du royaume furent transformés en pierres, en briques et même en plantes! Le royaume est tombé en ruines!
 &nbsp;
@@ -21,8 +21,8 @@ Vous êtes Mario! À vous de sauver les habitants du royaume Champignon!
 ![image de mario bros](https://mario.nintendo.com/static/62f0c8ceb9375b67329afdbceb24d421/a25bf/screen-3.jpg)
 &nbsp;
 ## Super Mario Bros 2.
-##### Date de sortie : 9 octobre 1988
-Plateforme : Nintendo Entertainment System
+### Date de sortie : 9 octobre 1988
+### Plateforme : Nintendo Entertainment System
 &nbsp;
 Un soir, Mario fit un étrange rêve. Il rêva d’un long, très long escalier menant à une porte. Dès que celle-ci s’ouvrit, il fit face à un monde qu’il n’avait jamais vu et qui s’étendait aussi loin qu’il pouvait voir. Lorsqu’il tendit l’oreille, une faible voix lui dit : « Bienvenue à Subcon, la terre des rêves. Wart nous a lancé un mauvais sort, et nous sommes prisonniers de sa malédiction. Nous avons attendu ton arrivée. Viens à bout de Wart pour rétablir Subcon. Le mauvais sort que Wart t’a lancé dans le monde réel n’aura pas d’effet ici. Rappelle-toi, il déteste les légumes. Aide-nous! »
 &nbsp;
@@ -35,8 +35,8 @@ Après avoir trouvé un endroit idéal pour s’installer, ils découvrirent une
 ![image de mario bros 2](https://mario.nintendo.com/static/55d121a156a5675a462ddfcac4c5e6d2/a25bf/screen-3.jpg)
 &nbsp;
 ## Super Mario Land.
-##### Date de sortie : 11 août 1989
-Plateforme : Game Boy
+### Date de sortie : 11 août 1989
+### Plateforme : Game Boy
 &nbsp;
 Il était un monde paisible nommé Sarasaland. Celui-ci était divisé en quatre royaumes : Birabuto, Muda, Easton et Chai.
 &nbsp;
@@ -52,8 +52,8 @@ Mario pourra-t-il vaincre Tatanga, libérer les peuples de son hypnose interstel
 &nbsp;
 ![image de Super Mario Land](https://mario.nintendo.com/static/3fd1a4fbfbfae2b78de8e66b27e797b8/781b9/screen-3.jpg)
 ## Super Mario Bros 3.
-##### Date de sortie : 12 février 1990
-Plateforme : Nintendo Entertainment System
+### Date de sortie : 12 février 1990
+### Plateforme : Nintendo Entertainment System
 &nbsp;
 Le royaume Champignon est devenu un endroit de paisible grâce aux actes de bravoure de Mario et Luigi. Il sert de portail vers le monde Champignon, où tout n’est pas rose. Bowser a lâché ses 7 enfants, fauteurs de trouble notoires, sur le tranquille monde Champignon. Ils ont dérobé les baguettes magiques royales de chaque pays du monde Champignon et les ont utilisées pour transformer chaque souverain en animal. Mario et Luigi doivent retrouver ces baguettes et les arracher des mains des 7 enfants de Bowser afin de rendre leur forme originelle aux souverains.
 
@@ -62,8 +62,8 @@ Le royaume Champignon est devenu un endroit de paisible grâce aux actes de brav
 ![image de Super Mario Bros 3](https://mario.nintendo.com/static/ec0a30e730254b3bed7f482bc59820cb/a25bf/screen-1.jpg)
 &nbsp;
 ## Super Mario World.
-##### Date de sortie : 13 août 1991
-Plateforme : Super Nintendo Entertainment System
+### Date de sortie : 13 août 1991
+### Plateforme : Super Nintendo Entertainment System
 &nbsp;
 Après avoir rétabli la paix dans le monde Champignon, Mario et Luigi ont décidé de prendre quelques vacances sur L'Île de Yoshi, dans le pays insulaire magique de Dinosaur Land, loin au sud.
 &nbsp;
@@ -78,8 +78,8 @@ Mario et Luigi se lancent dans une nouvelle aventure pour sauver les amis de Yos
 ![image de Super Mario World](https://mario.nintendo.com/static/81b5b23a6a32d75f239c22deee9c83a7/a25bf/screen-3.jpg)
 &nbsp;
 ## Super Mario 64.
-##### Date de sortie : 29 septembre 1996
-Plateforme : Nintendo 64
+### Date de sortie : 29 septembre 1996
+### Plateforme : Nintendo 64
 &nbsp;
 « Mon cher Mario, c’est avec plaisir que je t’invite à venir prendre le thé dans mon château. Affectueusement. Princesse Toadstool. »
 
@@ -113,8 +113,8 @@ Les étoiles de pouvoir volées sont dissimulées partout dans le monde peint. U
 ![image de Super Mario 64](https://mario.nintendo.com/static/0caadecbaad36e189eaed68c6fa01bd3/a25bf/screen-1.jpg)
 &nbsp;
 ## Super Mario Sunshine.
-##### Date de sortie : 25 août 2002
-Plateforme : Nintendo GameCube
+### Date de sortie : 25 août 2002
+### Plateforme : Nintendo GameCube
 &nbsp;
 Fermez les yeux et imaginez un bel ensoleillement apaisant et le bruit des vagues déferlant sur la plage. Dans le ciel bleu clair, les mouettes tournoient doucement. Voilà l’île Delfino.
 

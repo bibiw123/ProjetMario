@@ -1,67 +1,47 @@
 # QUI EST MARIO ?
+
+
 ## _Notre plombier préféré... 💛_ 
+&nbsp;
 
 Mario (マリオ, Mario?) est un personnage de jeu vidéo devenu la mascotte de Nintendo, facilement reconnaissable à sa moustache, à sa salopette, à ses gants blancs et à sa casquette rouge marquée d'un M inscrit dans un cercle blanc. Né de l'imagination du concepteur de jeux Shigeru Miyamoto, il est italo-américain. Dans les années 1980, Mario Segale a loué un dépôt à Nintendo of America, qui a décidé de donner son prénom « Mario » à la star de son nouveau jeu vidéo qui remplace le personnage qui apparaît pour la première fois en 1981, dans le jeu Donkey Kong, sous le nom de Jumpman; mais depuis 1985 c'est la série à succès des Super Mario qui a fait de lui un phénomène mondial et l'un des personnages emblématiques du jeu vidéo. Depuis, Mario a accompagné toutes les consoles de Nintendo.
 
 Les jeux de la série Super Mario ont joué un rôle important dans l'évolution du jeu de plates-formes, dont ils renouvellent régulièrement les codes. Plusieurs épisodes ont marqué durablement le jeu vidéo, notamment le premier opus, Super Mario Bros. (NES, 1985), qui est resté pendant vingt-trois ans le jeu le plus vendu, avec plus de 40 millions de cartouches écoulées (détrôné par Wii Sports en 2008), ou sa première apparition en 3D, dans le jeu Super Mario 64 (Nintendo 64, 1996). Au fil des années, le personnage de Mario est apparu dans d'autres types de jeux, tels que le jeu de course (Mario Kart), le jeu de combat (Super Smash Bros.), ou encore le jeu de rôle (Super Mario RPG).
 
+&nbsp;
 La série Mario est la plus vendue de l'histoire du jeu vidéo, avec plus de 195 millions d'exemplaires1 écoulés. Cependant, d'après les estimations du site VG Chartz, l'ensemble des jeux liés à Mario représentent au moins 450 millions d'exemplaires vendus2 et, certaines données n'étant pas connues, ce total est encore inférieur à la réalité.
 
 L'univers de Mario s'est progressivement enrichi au fil des jeux, avec l'apparition de nouveaux personnages, devenus plus ou moins célèbres à leur tour, au point de voler à l'occasion le premier rôle à Mario. Les principaux sont Luigi, son frère ; la princesse Peach, sa dulcinée ; les Toads, serviteurs de Peach ; Yoshi, sa fidèle monture ; Bowser, son ennemi juré.
 
------
+&nbsp;
 
-## Personnages ✨    
-**_GOOD_**
+## Personnages✨  
+
+&nbsp;
+
+### Les supers gentils
+&nbsp;
 - Luigi
 - La princesse Peach
 - Yoshi
 - Toad
-io, son grand rival et Waluigi, le compère de Wario. Sa voix est doublée par Charles Martinet.
+- La princesse Daisie
+  
+&nbsp;
 
-
-
-
-                  
-
-**_BAD_**
-
+### Les trop vilains
+&nbsp;
 - Bowser
 - Waluigi
 - Warrio
 - Mini Bowser
-
-
-### 
-
-
------
-
-Ici ce qui suit [Lien](https://example.com/ "titre de lien optionnel").
-
- ![]()
- ![](image.png)
- ![](image.png)
- ![](image.png)
- ![](image.png)
- ![](image.png)
+&nbsp;
 
 
 
+&nbsp;
 
-### Vidéo des personnages du monde de Mario 🍧
-
-
-
-
-
-
-[video](https://www.youtube.com/watch?v=1GiexIP3Y6A)
-
------
-## L'univers étendu de monde de Mario 🧠
-
-==Aux origines de Mario, superstar de la Nintendo==
+## MARIO SUPERSTAR 
 
 ![image de mario et luigi](https://www.iim.fr/ecole-web/wp-content/uploads/2018/01/UNE-mario-nintendo-luigi-jeu.jpeg)
 
@@ -98,25 +78,3 @@ La génération Mario a pratiquement conditionné le monde du jeu vidéo. Le pla
 
 Que ce soit par son graphisme ou son gameplay, la saga Mario a su faire évoluer le monde du jeu vidéo. La plupart des jeux ont su être innovants à leur sortie. La franchise a également su évoluer en proposant des déclinaisons avec le héros à moustache, qui ont toutes connu, et connaissent encore, un grand succès commercial. Mascotte éternelle de Nintendo, Mario n’est pas près de se faire détrôner.
 
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-
-
-
-
-
-## License
-
-copiryght les bads girls
-
-##
-==Léa
-Angélique
-Aîcha
-Souad==
-
-
-
- 

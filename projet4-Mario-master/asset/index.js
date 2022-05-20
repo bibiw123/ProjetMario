@@ -40,3 +40,5 @@ function hashChange() {
     xmlHttp.send( null )
 
 }
+
+pages = ["page0.md", "page1.md", "page2.md"]
